@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/Products.Catalogs/Products.Catalogs.Api/.vs
+/src/Products.Catalogs/Products.Catalogs.Api/obj
+/src/Products.Catalogs/Products.Catalogs.Domain/obj
+/src/Products.Catalogs/Products.Catalogs.Infrastructure.IoC/obj
+/src/Products.Catalogs/Products.Catalogs.Infrastructure.Repository/obj
+/src/Products.Catalogs/Products.Catalogs.Tests/obj
+/src/Products.Catalogs/Visual Studio 2022/Visualizers
+/src/WebApplicationProducts/obj
+/src/WebApplicationProducts/Visual Studio 2022/Visualizers
+/src/Products.Catalogs/Products.Catalogs.Api/bin/Debug/net8.0
+/src/Products.Catalogs/Products.Catalogs.Domain/bin/Debug/net8.0
+/src/Products.Catalogs/Products.Catalogs.Infrastructure.Repository/bin/Debug/net8.0
+/src/Products.Catalogs/Products.Catalogs.Tests/bin/Debug/net8.0
+/src/WebApplicationProducts/bin/Debug/net8.0

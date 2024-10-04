@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\joao-sakalauska\\src\\Products.Catalogs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3975FC4A-B42B-4532-8F49-34820E3892D7}|Products.Catalogs.Api\\Products.Catalogs.Api.csproj|d:\\joao-sakalauska\\src\\products.catalogs\\products.catalogs.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3975FC4A-B42B-4532-8F49-34820E3892D7}|Products.Catalogs.Api\\Products.Catalogs.Api.csproj|solutionrelative:products.catalogs.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975FC4A-B42B-4532-8F49-34820E3892D7}|Products.Catalogs.Api\\Products.Catalogs.Api.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975FC4A-B42B-4532-8F49-34820E3892D7}|Products.Catalogs.Api\\Products.Catalogs.Api.csproj|solutionrelative:products.catalogs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975FC4A-B42B-4532-8F49-34820E3892D7}|Products.Catalogs.Api\\Products.Catalogs.Api.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3975FC4A-B42B-4532-8F49-34820E3892D7}|Products.Catalogs.Api\\Products.Catalogs.Api.csproj|solutionrelative:products.catalogs.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975FC4A-B42B-4532-8F49-34820E3892D7}|Products.Catalogs.Api\\Products.Catalogs.Api.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975FC4A-B42B-4532-8F49-34820E3892D7}|Products.Catalogs.Api\\Products.Catalogs.Api.csproj|solutionrelative:products.catalogs.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB9F201-1BA4-4FAF-86AB-42735692A4C0}|Products.Catalogs.Infrastructure.Repository\\Products.Catalogs.Infrastructure.Repository.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.infrastructure.repository\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB9F201-1BA4-4FAF-86AB-42735692A4C0}|Products.Catalogs.Infrastructure.Repository\\Products.Catalogs.Infrastructure.Repository.csproj|solutionrelative:products.catalogs.infrastructure.repository\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA8173C-621B-4DCD-BF9B-19A7A7CFC3AE}|Products.Catalogs.Tests\\Products.Catalogs.Tests.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA8173C-621B-4DCD-BF9B-19A7A7CFC3AE}|Products.Catalogs.Tests\\Products.Catalogs.Tests.csproj|solutionrelative:products.catalogs.tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA8173C-621B-4DCD-BF9B-19A7A7CFC3AE}|Products.Catalogs.Tests\\Products.Catalogs.Tests.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA8173C-621B-4DCD-BF9B-19A7A7CFC3AE}|Products.Catalogs.Tests\\Products.Catalogs.Tests.csproj|solutionrelative:products.catalogs.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA8173C-621B-4DCD-BF9B-19A7A7CFC3AE}|Products.Catalogs.Tests\\Products.Catalogs.Tests.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.tests\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA8173C-621B-4DCD-BF9B-19A7A7CFC3AE}|Products.Catalogs.Tests\\Products.Catalogs.Tests.csproj|solutionrelative:products.catalogs.tests\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|solutionrelative:products.catalogs.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.domain\\commands\\products\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|solutionrelative:products.catalogs.domain\\commands\\products\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB9F201-1BA4-4FAF-86AB-42735692A4C0}|Products.Catalogs.Infrastructure.Repository\\Products.Catalogs.Infrastructure.Repository.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.infrastructure.repository\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB9F201-1BA4-4FAF-86AB-42735692A4C0}|Products.Catalogs.Infrastructure.Repository\\Products.Catalogs.Infrastructure.Repository.csproj|solutionrelative:products.catalogs.infrastructure.repository\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.domain\\interfaces\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|solutionrelative:products.catalogs.domain\\interfaces\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.domain\\commands\\products\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|solutionrelative:products.catalogs.domain\\commands\\products\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.domain\\commands\\products\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|solutionrelative:products.catalogs.domain\\commands\\products\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.domain\\commands\\products\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|solutionrelative:products.catalogs.domain\\commands\\products\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.domain\\commands\\products\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|solutionrelative:products.catalogs.domain\\commands\\products\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.domain\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|solutionrelative:products.catalogs.domain\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.domain\\commands\\products\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|solutionrelative:products.catalogs.domain\\commands\\products\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.domain\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|solutionrelative:products.catalogs.domain\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975FC4A-B42B-4532-8F49-34820E3892D7}|Products.Catalogs.Api\\Products.Catalogs.Api.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.api\\ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975FC4A-B42B-4532-8F49-34820E3892D7}|Products.Catalogs.Api\\Products.Catalogs.Api.csproj|solutionrelative:products.catalogs.api\\ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975FC4A-B42B-4532-8F49-34820E3892D7}|Products.Catalogs.Api\\Products.Catalogs.Api.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.api\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975FC4A-B42B-4532-8F49-34820E3892D7}|Products.Catalogs.Api\\Products.Catalogs.Api.csproj|solutionrelative:products.catalogs.api\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.domain\\queries\\products\\getproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|solutionrelative:products.catalogs.domain\\queries\\products\\getproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.domain\\queries\\products\\getproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27383D9-941B-42BE-BB22-9A67658D73C3}|Products.Catalogs.Domain\\Products.Catalogs.Domain.csproj|solutionrelative:products.catalogs.domain\\queries\\products\\getproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB9F201-1BA4-4FAF-86AB-42735692A4C0}|Products.Catalogs.Infrastructure.Repository\\Products.Catalogs.Infrastructure.Repository.csproj|D:\\joao-sakalauska\\src\\Products.Catalogs\\products.catalogs.infrastructure.repository\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB9F201-1BA4-4FAF-86AB-42735692A4C0}|Products.Catalogs.Infrastructure.Repository\\Products.Catalogs.Infrastructure.Repository.csproj|solutionrelative:products.catalogs.infrastructure.repository\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Tests\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Tests\\GlobalUsings.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Tests\\GlobalUsings.cs",
+              "RelativeToolTip": "Products.Catalogs.Tests\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:50:33.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Api\\Program.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Api\\Program.cs",
+              "RelativeToolTip": "Products.Catalogs.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:17:19.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Products.Catalogs.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Products.Catalogs.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T09:17:23.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Infrastructure.Repository\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Infrastructure.Repository\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Infrastructure.Repository\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Products.Catalogs.Infrastructure.Repository\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:26:05.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteProductCommand.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Commands\\Products\\DeleteProductCommand.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Domain\\Commands\\Products\\DeleteProductCommand.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Commands\\Products\\DeleteProductCommand.cs",
+              "RelativeToolTip": "Products.Catalogs.Domain\\Commands\\Products\\DeleteProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:23:19.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Profiles\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Domain\\Profiles\\ProductProfile.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Profiles\\ProductProfile.cs",
+              "RelativeToolTip": "Products.Catalogs.Domain\\Profiles\\ProductProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:33:57.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Products.Catalogs.Api\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:59:17.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Products.Catalogs.Api\\appsettings.json",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Api\\appsettings.json",
+              "RelativeToolTip": "Products.Catalogs.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T22:19:15.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Infrastructure.Repository\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Infrastructure.Repository\\Data\\ProductDbContext.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Infrastructure.Repository\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "Products.Catalogs.Infrastructure.Repository\\Data\\ProductDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:17:45.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Tests\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Tests\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Tests\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Products.Catalogs.Tests\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:49:53.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Products.Catalogs.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:03:21.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Commands\\Products\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Domain\\Commands\\Products\\UpdateProductCommand.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Commands\\Products\\UpdateProductCommand.cs",
+              "RelativeToolTip": "Products.Catalogs.Domain\\Commands\\Products\\UpdateProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:59:06.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Interfaces\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Domain\\Interfaces\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Interfaces\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Products.Catalogs.Domain\\Interfaces\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:54:57.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductTests.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Tests\\ProductTests.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Tests\\ProductTests.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Tests\\ProductTests.cs",
+              "RelativeToolTip": "Products.Catalogs.Tests\\ProductTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:47:43.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteProductCommandHandler.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Commands\\Products\\DeleteProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Domain\\Commands\\Products\\DeleteProductCommandHandler.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Commands\\Products\\DeleteProductCommandHandler.cs",
+              "RelativeToolTip": "Products.Catalogs.Domain\\Commands\\Products\\DeleteProductCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:20:43.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Commands\\Products\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Domain\\Commands\\Products\\CreateProductCommandHandler.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Commands\\Products\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "Products.Catalogs.Domain\\Commands\\Products\\CreateProductCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:16:36.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateProductCommandHandler.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Commands\\Products\\UpdateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Domain\\Commands\\Products\\UpdateProductCommandHandler.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Commands\\Products\\UpdateProductCommandHandler.cs",
+              "RelativeToolTip": "Products.Catalogs.Domain\\Commands\\Products\\UpdateProductCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:59:51.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Api\\IoC\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Api\\IoC\\DependencyInjection.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Api\\IoC\\DependencyInjection.cs",
+              "RelativeToolTip": "Products.Catalogs.Api\\IoC\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:39:30.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Api\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Api\\GlobalUsings.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Api\\GlobalUsings.cs",
+              "RelativeToolTip": "Products.Catalogs.Api\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:40:44.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Domain\\GlobalUsings.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\GlobalUsings.cs",
+              "RelativeToolTip": "Products.Catalogs.Domain\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:40:46.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Commands\\Products\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Domain\\Commands\\Products\\CreateProductCommand.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Commands\\Products\\CreateProductCommand.cs",
+              "RelativeToolTip": "Products.Catalogs.Domain\\Commands\\Products\\CreateProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:21:03.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetProductsQueryHandler.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Queries\\Products\\GetProductsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Domain\\Queries\\Products\\GetProductsQueryHandler.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Queries\\Products\\GetProductsQueryHandler.cs",
+              "RelativeToolTip": "Products.Catalogs.Domain\\Queries\\Products\\GetProductsQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:49:27.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetProductsQuery.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Queries\\Products\\GetProductsQuery.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Domain\\Queries\\Products\\GetProductsQuery.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Domain\\Queries\\Products\\GetProductsQuery.cs",
+              "RelativeToolTip": "Products.Catalogs.Domain\\Queries\\Products\\GetProductsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:55:35.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Infrastructure.Repository\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Products.Catalogs.Infrastructure.Repository\\GlobalUsings.cs",
+              "ToolTip": "D:\\joao-sakalauska\\src\\Products.Catalogs\\Products.Catalogs.Infrastructure.Repository\\GlobalUsings.cs",
+              "RelativeToolTip": "Products.Catalogs.Infrastructure.Repository\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:52:05.076Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
